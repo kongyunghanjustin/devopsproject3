@@ -1,4 +1,4 @@
-name: Whatsapp Notification
+name: Whatsapp
 
 on: [push, pull_request, issues, fork, watch]
 
